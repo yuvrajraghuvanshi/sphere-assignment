@@ -24,7 +24,6 @@ const ProgressBar = ({ percentage }) => {
           style={{
             background: "#fff",
             width: "2px",
-            // This needs to be equal to props.strokeWidth
             height: `${15}%`
           }}
         />
