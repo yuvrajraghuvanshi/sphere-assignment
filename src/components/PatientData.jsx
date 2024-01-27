@@ -94,6 +94,7 @@ function PatientData() {
     role="tabpanel"
     aria-labelledby="tabs-profile-tab01">
    <PostContent/>
+   
   </div>
   <div
     className="hidden opacity-0 transition-opacity duration-150 ease-linear data-[te-tab-active]:block"
